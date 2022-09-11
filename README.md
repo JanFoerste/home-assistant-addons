@@ -17,3 +17,6 @@ https://github.com/janfoerste/home-assistant-addons
 ### [Paperless-ngx](paperless-ngx)
 
 [Docs](paperless-ngx/DOCS.md)
+
+
+### [ingress-proxy](ingress-proxy)
